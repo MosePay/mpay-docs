@@ -1,0 +1,43 @@
+site_name: MPAY Documentation
+site_url: https://docs.mosepay.com
+site_author: MosePay
+repo_name: MosePay/MPAY
+repo_url: https://github.com/MosePay
+
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - fullscreen
+
+nav:
+  - Overview: index.md
+  - Getting Started: getting-started.md
+  - Wallet Guide: wallet.md
+  - Transfer & Payments: transfer.md
+  - API Integration: api.md
+  - Security: security.md
+  - FAQ: faq.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
