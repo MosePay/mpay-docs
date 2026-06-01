@@ -1,6 +1,6 @@
 # MPAY Documentation
 
-Welcome to MPAY — The Next-Gen Payment Wallet System.
+Welcome to MPAY — The Next-Gen Web3+AI Payment Wallet System.
 
 ## What is MPAY?
 MosePay, a next-generation Web3+AI payment infrastructure innovator, officially launches its flagship platform— mPay. Powered by an AI Super Agent brain, the Hermes Memory System, and a decentralized Agent Matrix Swarm, mPay builds a full-stack payment architecture spanning from native blockchain, L2 settlement, unified payment middleware, and AI smart contracts to hardware security and offline POS acceptance.mPay is not merely a product suite — it is a self-learning, self-executing, self-evolving AI payment operating system
